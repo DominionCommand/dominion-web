@@ -6,7 +6,7 @@ import {
   getNewsItemBySlug,
   getWorldZoneBySlug,
   siteContent,
-} from '../../../packages/content/src/siteContent';
+} from '../packages/content/src/siteContent';
 
 export type {
   Commander,
@@ -19,7 +19,7 @@ export type {
   RoadmapItem,
   SeasonBeat,
   WorldZone,
-} from '../../../packages/content/src/siteContent';
+} from '../packages/content/src/siteContent';
 
 export {
   siteContent,

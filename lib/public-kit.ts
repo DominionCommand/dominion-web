@@ -1,5 +1,5 @@
 import { siteContent } from './content';
-import type { MediaItem, NewsItem, PressAsset } from '../../../packages/content/src/siteContent';
+import type { MediaItem, NewsItem, PressAsset } from '../packages/content/src/siteContent';
 
 type MediaStatus = MediaItem['status'];
 type MediaType = MediaItem['type'];
